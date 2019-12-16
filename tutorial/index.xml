@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Nata Phet</title>
+    <link>https://nataphet.github.io/tutorial/</link>
+    <description>Recent content in Tutorial on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 16:14:46 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss><title>Berbagi Koleksi eBook Free</title>
+      <link>https://nataphet.github.io/tutorial/ebook/</link>
+      <pubDate>Tue, 02 Jul 2019 20:16:50 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/ebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oprek</title>
+      <link>https://nataphet.github.io/tutorial/oprek/</link>
+      <pubDate>Tue, 02 Jul 2019 11:51:58 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/oprek/</guid>
+      <description>{{ $taxo := &amp;ldquo;topik&amp;rdquo; }} {{ range .Param $taxo }} {{ $name := . }} {{ with $.Site.GetPage (printf &amp;ldquo;/%s/%s&amp;rdquo; $taxo ($name | urlize)) }} {{ $name }} {{ end }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>Tutorial semua tentang MikroTik</title>
+      <link>https://nataphet.github.io/tutorial/mikrotik/</link>
+      <pubDate>Tue, 02 Jul 2019 09:37:32 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/mikrotik/</guid>
+      <description>{{ range where .Site.Pages &amp;ldquo;Params.series&amp;rdquo; &amp;ldquo;golang&amp;rdquo; }} {{ .Content }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Instalasi Networking</title>
+      <link>https://nataphet.github.io/tutorial/networking/</link>
+      <pubDate>Tue, 02 Jul 2019 07:58:54 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/networking/</guid>
+      <description>Lorem   Contoh 2   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

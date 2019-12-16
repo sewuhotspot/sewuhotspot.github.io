@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fix on Nata Phet</title>
+    <link>https://nataphet.github.io/topik/fix/</link>
+    <description>Recent content in Fix on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2019 19:08:36 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/topik/fix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service</title>
+      <link>https://nataphet.github.io/service/</link>
+      <pubDate>Thu, 11 Jul 2019 19:08:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/service/</guid>
+      <description>Details
+Apakah Optimasi Software itu?
+Laptop atau PC Anda mungkin bisa melaju dengan kecepatan penuh dan sekalipun tidak pernah melakukan tune-up komputer di PC atau laptop Anda, tetapi tanpa pengecekan rutin di sisi software khususnya OS, Driver, dan Virus/Malware, kinerja komputer akan tergelincir dari waktu ke waktu dan akhirnya bisa berhenti.
+Bahkan jika perangkat tidak berhenti bekerja sepenuhnya, itu bisa memburuk tidak hanya membuat komputer kurang menyenangkan untuk digunakan tetapi bahkan dapat membuatnya frustasi dan membebani.</description>
+    </item>
+    
+    <item>
+      <title>Contoh2</title>
+      <link>https://nataphet.github.io/contoh2/</link>
+      <pubDate>Mon, 01 Jul 2019 16:58:20 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/contoh2/</guid>
+      <description>{{ $taxo := &amp;ldquo;topik&amp;rdquo; }} {{ range .Param $taxo }} {{ $name := . }} {{ with $.Site.GetPage (printf &amp;ldquo;/%s/%s&amp;rdquo; $taxo ($name | urlize)) }} {{ $name }} {{ end }} {{ end }}  #lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+  </channel>
+</rss>

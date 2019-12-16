@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Nata Phet</title>
+    <link>https://nataphet.github.io/topik/networking/</link>
+    <description>Recent content in Networking on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 22:34:26 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/topik/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hal Penting Dalam Setting AP</title>
+      <link>https://nataphet.github.io/hal-penting-dalam-setting-ap/</link>
+      <pubDate>Wed, 14 Aug 2019 22:34:26 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/hal-penting-dalam-setting-ap/</guid>
+      <description>airMAX Capacity (AMC) didasarkan pada efisiensi airtime. Misalnya, jika Anda memiliki satu klien dengan kecepatan data rendah atau Anda menggunakan perangkat 1x1 (seperti Bullet atau airGrid) bersama klien lain yang 2x2, maka itu akan menggunakan lebih banyak airtime (slot) untuk jumlah data yang sama , mengurangi waktu (atau kapasitas) untuk klien lain. Semakin rendah AMC, semakin tidak efisien titik akses (AP). Jika Anda hanya memiliki satu klien, ini mungkin tidak masalah, tetapi ketika Anda memiliki banyak klien (misalnya, lebih dari 30), maka AMC menjadi sangat penting, dan Anda ingin setinggi mungkin.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://nataphet.github.io/service/</link>
+      <pubDate>Thu, 11 Jul 2019 19:08:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/service/</guid>
+      <description>Details
+Apakah Optimasi Software itu?
+Laptop atau PC Anda mungkin bisa melaju dengan kecepatan penuh dan sekalipun tidak pernah melakukan tune-up komputer di PC atau laptop Anda, tetapi tanpa pengecekan rutin di sisi software khususnya OS, Driver, dan Virus/Malware, kinerja komputer akan tergelincir dari waktu ke waktu dan akhirnya bisa berhenti.
+Bahkan jika perangkat tidak berhenti bekerja sepenuhnya, itu bisa memburuk tidak hanya membuat komputer kurang menyenangkan untuk digunakan tetapi bahkan dapat membuatnya frustasi dan membebani.</description>
+    </item>
+    
+  </channel>
+</rss>

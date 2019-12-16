@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kategori on Nata Phet</title>
+    <link>https://nataphet.github.io/kategori/</link>
+    <description>Recent content in Kategori on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 22:34:26 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/kategori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://nataphet.github.io/kategori/hardware/</link>
+      <pubDate>Wed, 14 Aug 2019 22:34:26 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/kategori/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oprek</title>
+      <link>https://nataphet.github.io/kategori/oprek/</link>
+      <pubDate>Wed, 14 Aug 2019 22:34:26 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/kategori/oprek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimedia</title>
+      <link>https://nataphet.github.io/kategori/multimedia/</link>
+      <pubDate>Mon, 22 Jul 2019 00:39:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/kategori/multimedia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

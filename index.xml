@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to nataphet, my personal blog!  on Nata Phet</title>
+    <link>https://nataphet.github.io/</link>
+    <description>Recent content in Welcome to nataphet, my personal blog!  on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 16:14:46 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hal Penting Dalam Setting AP</title>
+      <link>https://nataphet.github.io/hal-penting-dalam-setting-ap/</link>
+      <pubDate>Wed, 14 Aug 2019 22:34:26 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/hal-penting-dalam-setting-ap/</guid>
+      <description>airMAX Capacity (AMC) didasarkan pada efisiensi airtime. Misalnya, jika Anda memiliki satu klien dengan kecepatan data rendah atau Anda menggunakan perangkat 1x1 (seperti Bullet atau airGrid) bersama klien lain yang 2x2, maka itu akan menggunakan lebih banyak airtime (slot) untuk jumlah data yang sama , mengurangi waktu (atau kapasitas) untuk klien lain. Semakin rendah AMC, semakin tidak efisien titik akses (AP). Jika Anda hanya memiliki satu klien, ini mungkin tidak masalah, tetapi ketika Anda memiliki banyak klien (misalnya, lebih dari 30), maka AMC menjadi sangat penting, dan Anda ingin setinggi mungkin.</description>
+    </item>
+    
+    <item>
+      <title>Download Subtitle Streaming</title>
+      <link>https://nataphet.github.io/download-subtitle-streaming/</link>
+      <pubDate>Mon, 22 Jul 2019 00:39:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/download-subtitle-streaming/</guid>
+      <description> Ketika kita melihat video streaming yang sedang diputar terlihat text dibawahnya itu yang disebut dengan subtitle. tetapi ketika download video subtitle kadang tidak ikut terdownload ? nah berikut cara download subtitle dari video streaming dengan menggukanan IDM.
+Buka &amp;ldquo;Option &amp;gt;&amp;gt; General&amp;rdquo; kemudian klik tombol &amp;ldquo;Edit&amp;rdquo; dekat dengan &amp;ldquo;Customize IDM Download panels&amp;hellip;&amp;rdquo; </description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://nataphet.github.io/service/</link>
+      <pubDate>Thu, 11 Jul 2019 19:08:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/service/</guid>
+      <description>Details
+Apakah Optimasi Software itu?
+Laptop atau PC Anda mungkin bisa melaju dengan kecepatan penuh dan sekalipun tidak pernah melakukan tune-up komputer di PC atau laptop Anda, tetapi tanpa pengecekan rutin di sisi software khususnya OS, Driver, dan Virus/Malware, kinerja komputer akan tergelincir dari waktu ke waktu dan akhirnya bisa berhenti.
+Bahkan jika perangkat tidak berhenti bekerja sepenuhnya, itu bisa memburuk tidak hanya membuat komputer kurang menyenangkan untuk digunakan tetapi bahkan dapat membuatnya frustasi dan membebani.</description>
+    </item>
+    
+    <item>
+      <title>Berbagi Koleksi eBook Free</title>
+      <link>https://nataphet.github.io/tutorial/ebook/</link>
+      <pubDate>Tue, 02 Jul 2019 20:16:50 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/ebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oprek</title>
+      <link>https://nataphet.github.io/tutorial/oprek/</link>
+      <pubDate>Tue, 02 Jul 2019 11:51:58 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/oprek/</guid>
+      <description>{{ $taxo := &amp;ldquo;topik&amp;rdquo; }} {{ range .Param $taxo }} {{ $name := . }} {{ with $.Site.GetPage (printf &amp;ldquo;/%s/%s&amp;rdquo; $taxo ($name | urlize)) }} {{ $name }} {{ end }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>Tutorial semua tentang MikroTik</title>
+      <link>https://nataphet.github.io/tutorial/mikrotik/</link>
+      <pubDate>Tue, 02 Jul 2019 09:37:32 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/mikrotik/</guid>
+      <description>{{ range where .Site.Pages &amp;ldquo;Params.series&amp;rdquo; &amp;ldquo;golang&amp;rdquo; }} {{ .Content }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Instalasi Networking</title>
+      <link>https://nataphet.github.io/tutorial/networking/</link>
+      <pubDate>Tue, 02 Jul 2019 07:58:54 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/tutorial/networking/</guid>
+      <description>Lorem   Contoh 2   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Contoh2</title>
+      <link>https://nataphet.github.io/contoh2/</link>
+      <pubDate>Mon, 01 Jul 2019 16:58:20 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/contoh2/</guid>
+      <description>{{ $taxo := &amp;ldquo;topik&amp;rdquo; }} {{ range .Param $taxo }} {{ $name := . }} {{ with $.Site.GetPage (printf &amp;ldquo;/%s/%s&amp;rdquo; $taxo ($name | urlize)) }} {{ $name }} {{ end }} {{ end }}  #lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    
+    <item>
+      <title>Flasdisk Read Only Di Ubuntu</title>
+      <link>https://nataphet.github.io/flasdisk-read-only-di-ubuntu/</link>
+      <pubDate>Thu, 04 Oct 2018 12:53:25 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/flasdisk-read-only-di-ubuntu/</guid>
+      <description>Pernah mengalami Flashdisk tidak bisa dicopy paste ? atau kalau kita buka dari file manager di ubuntu folder di flashdisk ada icon Gembok.
+Padahal kita yakin flashdisk milik kita dalam keadan OK atau bahkan di sistem operasi windows flashdisk kita bisa di copy paste. Itu yang dinamakan Read Only atau
+flashdisk anda dalam mode hanya dapat dibaca tidak bisa di isi File. Lalu bagaimana cara mengatasinya tanpa harus diformat? berikut saya berikan cara termudah untuk mentasinya.</description>
+    </item>
+    
+  </channel>
+</rss>

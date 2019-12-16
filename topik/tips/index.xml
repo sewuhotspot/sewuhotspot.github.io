@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on Nata Phet</title>
+    <link>https://nataphet.github.io/topik/tips/</link>
+    <description>Recent content in tips on Nata Phet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:39:36 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataphet.github.io/topik/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Download Subtitle Streaming</title>
+      <link>https://nataphet.github.io/download-subtitle-streaming/</link>
+      <pubDate>Mon, 22 Jul 2019 00:39:36 +0700</pubDate>
+      
+      <guid>https://nataphet.github.io/download-subtitle-streaming/</guid>
+      <description> Ketika kita melihat video streaming yang sedang diputar terlihat text dibawahnya itu yang disebut dengan subtitle. tetapi ketika download video subtitle kadang tidak ikut terdownload ? nah berikut cara download subtitle dari video streaming dengan menggukanan IDM.
+Buka &amp;ldquo;Option &amp;gt;&amp;gt; General&amp;rdquo; kemudian klik tombol &amp;ldquo;Edit&amp;rdquo; dekat dengan &amp;ldquo;Customize IDM Download panels&amp;hellip;&amp;rdquo; </description>
+    </item>
+    
+  </channel>
+</rss>
